@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/fallingforyoub/static/css/main.b86382e7.chunk.css",
+    "main.js": "/fallingforyoub/static/js/main.dadbbbbe.chunk.js",
+    "main.js.map": "/fallingforyoub/static/js/main.dadbbbbe.chunk.js.map",
+    "runtime-main.js": "/fallingforyoub/static/js/runtime-main.59bde38b.js",
+    "runtime-main.js.map": "/fallingforyoub/static/js/runtime-main.59bde38b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/fallingforyoub/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.02217099.chunk.js": "/fallingforyoub/static/js/2.02217099.chunk.js",
+    "static/js/2.02217099.chunk.js.map": "/fallingforyoub/static/js/2.02217099.chunk.js.map",
+    "static/js/3.77a4879a.chunk.js": "/fallingforyoub/static/js/3.77a4879a.chunk.js",
+    "static/js/3.77a4879a.chunk.js.map": "/fallingforyoub/static/js/3.77a4879a.chunk.js.map",
+    "index.html": "/fallingforyoub/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/fallingforyoub/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.b86382e7.chunk.css.map": "/fallingforyoub/static/css/main.b86382e7.chunk.css.map",
+    "static/js/2.02217099.chunk.js.LICENSE.txt": "/fallingforyoub/static/js/2.02217099.chunk.js.LICENSE.txt",
+    "static/media/IMG_0117.jpg": "/fallingforyoub/static/media/IMG_0117.721395a2.jpg",
+    "static/media/IMG_2377.jpg": "/fallingforyoub/static/media/IMG_2377.f3fc46c9.jpg",
+    "static/media/IMG_2535.jpg": "/fallingforyoub/static/media/IMG_2535.4e0debcb.jpg",
+    "static/media/IMG_2537.jpg": "/fallingforyoub/static/media/IMG_2537.32dd2880.jpg",
+    "static/media/IMG_2666.jpg": "/fallingforyoub/static/media/IMG_2666.369220ca.jpg",
+    "static/media/IMG_2726.jpg": "/fallingforyoub/static/media/IMG_2726.3c94b984.jpg",
+    "static/media/IMG_2727.jpg": "/fallingforyoub/static/media/IMG_2727.d947602c.jpg",
+    "static/media/IMG_2729.jpg": "/fallingforyoub/static/media/IMG_2729.5d90557b.jpg",
+    "static/media/IMG_2780.jpg": "/fallingforyoub/static/media/IMG_2780.fd375512.jpg",
+    "static/media/IMG_2791.jpg": "/fallingforyoub/static/media/IMG_2791.bda13ec9.jpg",
+    "static/media/IMG_2871.jpg": "/fallingforyoub/static/media/IMG_2871.579091d7.jpg",
+    "static/media/IMG_2873.jpg": "/fallingforyoub/static/media/IMG_2873.da8db495.jpg",
+    "static/media/IMG_2887.jpg": "/fallingforyoub/static/media/IMG_2887.b27aaa22.jpg",
+    "static/media/IMG_2893.jpg": "/fallingforyoub/static/media/IMG_2893.eb1dfc6e.jpg",
+    "static/media/IMG_2916.jpg": "/fallingforyoub/static/media/IMG_2916.ec4ee114.jpg",
+    "static/media/IMG_2986.jpg": "/fallingforyoub/static/media/IMG_2986.46c51f39.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59bde38b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.02217099.chunk.js",
+    "static/css/main.b86382e7.chunk.css",
+    "static/js/main.dadbbbbe.chunk.js"
+  ]
+}
