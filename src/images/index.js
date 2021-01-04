@@ -1,0 +1,1 @@
+export const Beach001 = require("./IMG_2986.jpg");

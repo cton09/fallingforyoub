@@ -1,23 +1,28 @@
-import logo from './logo.svg';
+import Container from 'react-bootstrap/Container';
+import Navbar from 'react-bootstrap/Navbar';
 import './App.css';
+import { IoMdCamera } from "react-icons/io";
+import Gallery from './components/Gallery';
+// import PageTitle from './components/PageTitle';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar className="py-3" expand="lg" bg="dark" variant="dark">
+        <Navbar.Brand href="#home" className="mx-3">
+          Falling For You
+        </Navbar.Brand>
+        <Navbar.Text>
+          Album
+          <IoMdCamera
+          color="#add8e6"
+          size="1.5em"
+          className="align-top mx-2" />
+        </Navbar.Text>
+      </Navbar>
+      <Container fluid className="bg-gradient">
+        <Gallery />
+      </Container>
     </div>
   );
 }

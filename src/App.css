@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.bg-gradient {
+  background-image: linear-gradient(to bottom right, rgb(148, 255, 255), rgb(115, 255, 225));
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
